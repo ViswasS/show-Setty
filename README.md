@@ -9,3 +9,8 @@ This dish comes into play during various occasions and the slow cooking process 
 1. **Home-made** : Although it is a little hard to match as similarly as a hotel dish, it can be made in our homes.
 2. **Pista House** : In Hyderabad, It is a must try dish at Pista House.
 3. **Naidu gari Kunda Biryani** : It is served in a clay pot.
+
+- The three side dishes i would have with are
+- Kaju mutton
+- Raitha
+- Omlette
