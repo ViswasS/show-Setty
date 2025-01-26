@@ -26,3 +26,9 @@ Willem Dafoe, Suraj Sharma, Benedict Cumberbatch, Christian Bale
 | Benedict Cumberbatch  | Exceptional in portryaing intellectuals and complex characters (The Imitation Game)   | 48 |
 | Christian Bale        | Master of transformation, brings dept and commitment to his every role (The Prestige) | 50 |
 | Dev Patel             | Younger and charismatic, with potential to bring a fresh perspective (The Man Who Knew Infinity) | 34 |
+***
+### Favorite Quotes
+> "In the middle of every difficulty lies opportunity."
+> *- Albert Einstein*
+> "Be alone, that is the secret of invention; be alone, that is when ideas are born."
+> *- NiKola Tesla*
