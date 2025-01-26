@@ -32,4 +32,4 @@ Willem Dafoe, Suraj Sharma, Benedict Cumberbatch, Christian Bale
 > *- Albert Einstein*
 
 > "Be alone, that is the secret of invention; be alone, that is when ideas are born."
-> *- NiKola Tesla*
+> _- NiKola Tesla_
