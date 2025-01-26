@@ -30,5 +30,6 @@ Willem Dafoe, Suraj Sharma, Benedict Cumberbatch, Christian Bale
 ### Favorite Quotes
 > "In the middle of every difficulty lies opportunity."
 > *- Albert Einstein*
+<br>
 > "Be alone, that is the secret of invention; be alone, that is when ideas are born."
 > *- NiKola Tesla*
