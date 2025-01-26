@@ -21,6 +21,7 @@ This dish comes into play during various occasions and the slow cooking process 
 While Cillian Murphy is the Lead Actor who delivered an historical performance, here are some more actors who could also fulfill that role.
 Willem Dafoe, Suraj Sharma, Benedict Cumberbatch, Christian Bale
 | Actor Name            | Reason of Choice                                                                      | Age |
+|-----------------------|---------------------------------------------------------------------------------------|----|
 | Willem Dafoe          | Known for his intense and energitic roles                                             | 69 |
 | Benedict Cumberbatch  | Exceptional in portryaing intellectuals and complex characters (The Imitation Game)   | 48 |
 | Christian Bale        | Master of transformation, brings dept and commitment to his every role (The Prestige) | 50 |
