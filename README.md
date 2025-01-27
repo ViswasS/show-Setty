@@ -34,7 +34,7 @@ Willem Dafoe, Suraj Sharma, Benedict Cumberbatch, Christian Bale
 > "Be alone, that is the secret of invention; be alone, that is when ideas are born."
 > _- NiKola Tesla_
 ***
-## Fibonacci Sequence
+## Find difference between lists using dart
 Below is a Dart code snippet that demonstrates how to find difference of lists.
 The function takes two iterables (`a` and `b`), converts the second iterable to a set, and returns a new list containing elements in `a` that `b` does not contain.
 
