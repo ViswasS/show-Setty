@@ -38,11 +38,11 @@ Willem Dafoe, Suraj Sharma, Benedict Cumberbatch, Christian Bale
 Below is a Dart code snippet that demonstrates how to find difference of lists.
 The function takes two iterables (`a` and `b`), converts the second iterable to a set, and returns a new list containing elements in `a` that `b` does not contain.
 
+Source: Example Snippet
+<!-- https://code.pieces.app/collections/dart>
+
 '''dart
 List difference(Iterable a, Iterable b){
     final s = b.toSet();
-    return a.where((x) => !s.contains(x)).toList();
+    return a.where((x) => !s.contains(x)).toLisT();
 }
-'''
-Source: Example Snippet
-<!-- https://code.pieces.app/collections/dart>
