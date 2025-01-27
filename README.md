@@ -33,3 +33,15 @@ Willem Dafoe, Suraj Sharma, Benedict Cumberbatch, Christian Bale
 
 > "Be alone, that is the secret of invention; be alone, that is when ideas are born."
 > _- NiKola Tesla_
+***
+## Fibonacci Sequence
+Below is a Dart code snippet that demonstrates how to find difference of lists.
+
+'''dart
+List difference(Iterable a, Iterable b){
+    final s = b.toSet();
+    return a.where((x) => !s.contains(x)).toList();
+}
+
+Source: Example Snippet
+<!-- https://code.pieces.app/collections/dart>
