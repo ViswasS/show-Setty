@@ -15,7 +15,7 @@ This dish comes into play during various occasions and the slow cooking process 
 - Raitha
 - Omlette
 
-![More about my Favorite movie](C:\Users\S576128\Documents\GitHub\show-Setty\MyMovie.md)
+![More about my Favorite movie](https://github.com/ViswasS/show-Setty/blob/main/MyMovie.md)
 ---
 ### Alternative Actors for Oppenheimer
 While Cillian Murphy is the Lead Actor who delivered an historical performance, here are some more actors who could also fulfill that role.
@@ -47,4 +47,3 @@ The function takes two iterables (`a` and `b`), converts the second iterable to 
 
 Source: Example Snippet
 <!-- https://code.pieces.app/collections/dart>
-
