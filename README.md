@@ -43,6 +43,6 @@ List difference(Iterable a, Iterable b){
     final s = b.toSet();
     return a.where((x) => !s.contains(x)).toList();
 }
-
+'''
 Source: Example Snippet
 <!-- https://code.pieces.app/collections/dart>
